@@ -1,2 +1,6 @@
 this is new file.
 from ttn
+appending the file
+
+
+changing to ignoreignore

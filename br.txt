@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 changing in master
+=======
+>>>>>>> branch1
